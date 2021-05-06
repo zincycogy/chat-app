@@ -1,6 +1,10 @@
 # Chat Application
 
-Web chat application using React
+Web chat application using React.
+
+Backend is hosted by [https://chatengine.io​]
+
+Components are made by using [https://www.npmjs.com/package/react-chat-engine]
 
 ## Available Scripts
 
